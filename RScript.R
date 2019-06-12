@@ -1,7 +1,7 @@
-## Gabriele Mineo
+## pravee2019
 ## MovieLens Project 
 ## HarvardX: PH125.9x - Capstone Project
-## https://github.com/gmineo/
+## https://github.com/pravee2019/
 
 #################################################
 # MovieLens Rating Prediction Project Code 
